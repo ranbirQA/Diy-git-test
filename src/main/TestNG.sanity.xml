@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DiyTest Automation Suite" verbose="1" >
+    <test name="DiyTest App Test Cases" >
+        <classes>
+            <class name="com.Diy.qa.Testcases.HomePageTest" />
+            <class name="com.Diy.qa.Testcases.LoginPageTest" />
+        </classes>
+    </test>
+
+</suite>
